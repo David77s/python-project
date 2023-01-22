@@ -1,2 +1,3 @@
 for i in range(10):
-    print("Dawid")
+    print("Mam na imię Dawid")
+    print("----------")
